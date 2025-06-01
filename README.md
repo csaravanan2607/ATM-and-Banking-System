@@ -1,9 +1,4 @@
 # ATM AND BANKING SYSTEM
-## Name: Saravanan C
-## Reg No: 212222110041
-## Date: 5/3/25
-
-
 ## AIM:
 To develop the ATM and Banking System using Star UML
 
@@ -29,10 +24,10 @@ To develop the ATM and Banking System using Star UML
 10.Provide a simple and intuitive user interface.
 
 
-## UML DIAGRAMS
+## UML DIAGRAMS:
 
 
-## USE CASE DIAGRAM
+## USE CASE DIAGRAM:
 ![377574048-c64422a7-9594-4612-904f-30e6317f587b](https://github.com/user-attachments/assets/c951f8aa-fecc-4f7b-8b87-fadf3d6dabce)
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -55,7 +50,7 @@ Specifying the context and requirements of a system
 
 
 
-## CLASS DIAGRAM
+## CLASS DIAGRAM:
 ![377513518-92876d68-b6d3-4f07-86c7-ce5c072ac3db](https://github.com/user-attachments/assets/c4104894-8dc1-441c-87f0-aed4b74c7c28)
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
@@ -115,7 +110,7 @@ Describe the steps performed in a UML use case.
 
 
 
-## SEQUENCE DIAGRAM
+## SEQUENCE DIAGRAM:
 ![377513730-1e65ba7d-662b-4475-ab6b-ebb844497842](https://github.com/user-attachments/assets/e84b1b74-b954-4b19-9be7-ad7b8ba4f692)
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
@@ -123,7 +118,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
 
-## BENEFITS OF SEQUENCE DIAGRAM
+## BENEFITS OF SEQUENCE DIAGRAM:
 
 Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
 
@@ -138,7 +133,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-## RESULT
+## RESULT:
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
 
