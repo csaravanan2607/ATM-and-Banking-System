@@ -1,4 +1,4 @@
-# ATM-AND-BANKING-SYSTEM
+# ATM AND BANKING SYSTEM
 # Reg No: 212222110041
 # Name: Saravanan C
 # Date: 5/3/25
